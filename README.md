@@ -1,7 +1,5 @@
 Developed from <https://access.redhat.com/articles/5683981>
 
-[[Files:
-internal]{.ul}](https://drive.google.com/drive/folders/1_8gDjpR1mhrPHN5Rg0ZuakBUNrtKbXOc)
 
 # Label nodes
 
